@@ -45,6 +45,7 @@ An instance of bWAPP is running at port 80 of the target. ![ref2]**Step 4:** Log
 ![](Aspose.Words.7d333c78-7c6c-4f0d-b0ad-9e934f93e1fb.009.jpeg)
 
 Modify the directory parameter to “../etc/” to display the contents of /etc directory. 
+![2024-09-18 16_31_48-walkthrough-2123 pdf](https://github.com/user-attachments/assets/f0d31397-847e-4b51-879b-da0a60b1105b)
 
 The Directory Traversal attack was successful. ![ref2]**References:** 
 
